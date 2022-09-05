@@ -1,3 +1,5 @@
+update sept 5: the app is not ready yet, I just started working on it last night.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
